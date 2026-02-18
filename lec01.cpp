@@ -18,7 +18,7 @@ using namespace std;
 int main()
 {
     int x,y;
-    cin>>x>>y;
+    cin >>x >> y;
     cout<<"Value of x is:"<< x << "and value of y is:"<< y <<endl;
     return 0;
 }
