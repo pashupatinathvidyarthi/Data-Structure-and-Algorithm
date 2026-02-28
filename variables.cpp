@@ -35,3 +35,6 @@
 
 
 //int range from -2,147,483.648 to 2,147,483,647
+
+#include<bits/stdc++.h>
+using namespace std;
