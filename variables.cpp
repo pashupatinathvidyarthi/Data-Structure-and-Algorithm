@@ -38,3 +38,12 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+int main()
+{
+    //int
+    int x=30;
+    //long
+    long y=34;
+    cout<< x,cout<<y;
+    return 0;
+}
