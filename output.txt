@@ -1,0 +1,1 @@
+Value of x is:12and value of y is:12
