@@ -18,3 +18,11 @@
 
 
 
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hey Pashupati !"<<endl<<"Hey Nath"<<endl;
+    cout<<"Hey Pashupati";
+    return 0;
+}
