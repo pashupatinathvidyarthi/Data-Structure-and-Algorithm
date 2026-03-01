@@ -36,14 +36,15 @@
 
 //int range from -2,147,483.648 to 2,147,483,647
 
-#include<bits/stdc++.h>
-using namespace std;
-int main()
-{
-    //int
-    int x=30;
-    //long
-    long y=34;
-    cout<< x,cout<<y;
-    return 0;
-}
+// #include<bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+//     //int
+//     int x=30;
+//     //long
+//     long y=34;
+//     cout<< x,cout<<y;
+//     return 0;
+// }
+
