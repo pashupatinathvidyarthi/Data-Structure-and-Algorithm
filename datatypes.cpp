@@ -18,6 +18,7 @@ int main()
     // double z=5.674;
 
 
+
     //string and getline
 
     // string s1;
@@ -29,5 +30,10 @@ int main()
     string str;
     getline(cin,str);
     cout << str;
+
+
+    //char
+    char ch='g';
+    cout<<ch;
     return 0;
 }
