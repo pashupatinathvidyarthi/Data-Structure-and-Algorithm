@@ -28,7 +28,18 @@
 // }
 
 
-#include<iostream>
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int x,y;
+//     cin >> x >> y;
+//     cout << "Value of x is "<< x << " Value of y is "<< y;
+//     return 0;
+// }
+
+
+#include<bits/stdc++.h>> // <bits/stdc++.h> it include all libraries of c++
 using namespace std;
 int main()
 {
