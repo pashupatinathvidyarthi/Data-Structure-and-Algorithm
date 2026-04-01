@@ -12,6 +12,8 @@ Ask user to enter marks and print the corresponding grade.
 */
 int main()
 {
+    float marks;
+    cin >> marks;
     
     return 0;
 }
