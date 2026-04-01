@@ -20,8 +20,14 @@ int main()
 
     //string and getline
 
-    string s;
-    cin >> s;
-    cout << s;
+    // string s1;
+    // cin >> s1;
+    // cout << s1;
+
+
+
+    string str;
+    getline(cin,str);
+    cout << str;
     return 0;
 }
