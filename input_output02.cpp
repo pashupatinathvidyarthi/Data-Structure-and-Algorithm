@@ -18,11 +18,22 @@
 
 
 
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     cout<<"Hey Pashupati !"<<endl<<"Hey Nath"<<endl;
+//     cout<<"Hey Pashupati";
+//     return 0;
+// }
+
+
 #include<iostream>
 using namespace std;
 int main()
 {
-    cout<<"Hey Pashupati !"<<endl<<"Hey Nath"<<endl;
-    cout<<"Hey Pashupati";
+    int x,y;
+    cin >> x >> y;
+    cout << "Value of x is "<< x << " Value of y is "<< y;
     return 0;
 }
