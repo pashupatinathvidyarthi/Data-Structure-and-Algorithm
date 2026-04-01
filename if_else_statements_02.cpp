@@ -10,21 +10,51 @@ e. 60 to 79 - B
 f. 80 to 100 - A
 Ask user to enter marks and print the corresponding grade.
 */
+
+
+
+//Method 01
+
+// int main()
+// {
+//     float marks;
+//     cin >> marks;
+//     if(marks<25)
+//         cout<<"You grade is \"F\"";
+//     else if(marks>=25 && marks <=44)
+//         cout<<"Your grade is \"E\"";
+//         else if(marks>44 && marks<=49)
+//             cout<<"Your grade is \"D\"";
+//             else if(marks>49 && marks <=59)
+//                 cout<<"Your grade is \"C\"";
+//                 else if(marks>59 && marks <=79)
+//                     cout<<"Your grade is \"B\"";
+//                     else if(marks>79 && marks <=100)
+//                         cout<<"Your grade is \"A\"";
+//     return 0;
+// }
+
+
+
+
+//Method 02
 int main()
 {
     float marks;
     cin >> marks;
     if(marks<25)
         cout<<"You grade is \"F\"";
-    else if(marks>25 && marks <=44)
+    else if(marks <=44)
         cout<<"Your grade is \"E\"";
-        else if(marks>44 && marks<=49)
+        else if(marks<=49)
             cout<<"Your grade is \"D\"";
-            else if(marks>49 && marks <=59)
+            else if(marks <=59)
                 cout<<"Your grade is \"C\"";
-                else if(marks>59 && marks <=79)
+                else if(marks <=79)
                     cout<<"Your grade is \"B\"";
-                    else if(marks>79 && marks <=100)
+                    else if(marks <=100)
                         cout<<"Your grade is \"A\"";
     return 0;
 }
+
+
