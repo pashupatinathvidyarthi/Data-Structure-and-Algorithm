@@ -12,5 +12,6 @@ Ask user to enter marks and print the corresponding grade.
 */
 int main()
 {
+    
     return 0;
 }
